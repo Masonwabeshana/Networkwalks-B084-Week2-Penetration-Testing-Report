@@ -26,19 +26,6 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 
 # 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
-1[whois output](   )
+*Screenshots for the activities
 
-![whatweb output](screenshots/2_whatweb.png)
 
-![nslookup output](screenshots/3_nslookup.png)
-
-![curl output](screenshots/4_curl.png)
-
-![wafw00f output](screenshots/5_wafw00f.png)
-
-![dnsrecon output](screenshots/7_zenmap.png)
-
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
-
--End-
