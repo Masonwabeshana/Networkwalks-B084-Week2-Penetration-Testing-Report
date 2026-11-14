@@ -65,4 +65,6 @@ Finding hidden subdomains and servers of the target
 
 IP address Topology for live hosts
 
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/f964f2ca28c42339346a4c60524ce14c6f9a352a/Screenshot%202026-11-14%20180921.png)
+
 
