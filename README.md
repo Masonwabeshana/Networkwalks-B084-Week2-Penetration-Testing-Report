@@ -28,7 +28,7 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 
 *Screenshots for the activities*
 
-Domain registration details of target
+Domain registration details of the target
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/1bcfaa7c57036f9767e906035efc9dc2eaf0c6be/Screenshot%202026-11-14%20192223.png)
 
@@ -41,6 +41,8 @@ Fingerprinting the target website
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/a8e2b6fd53545c6712d555c5865870f9c631c1e4/Screenshot%202026-11-14%20192655.png)
 
 
-DNS information of target
+DNS information of the target
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/2e21cac3dcc0d8635afe463345ccc9c186859be9/Screenshot%202026-11-14%20193223.png)
+
+HTTP response headers of the target
