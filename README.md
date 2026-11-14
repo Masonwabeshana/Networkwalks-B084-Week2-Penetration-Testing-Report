@@ -42,3 +42,5 @@ Fingerprinting the target website
 
 
 DNS information of target
+
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/2e21cac3dcc0d8635afe463345ccc9c186859be9/Screenshot%202026-11-14%20193223.png)
