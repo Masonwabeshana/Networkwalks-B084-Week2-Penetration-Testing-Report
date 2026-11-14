@@ -27,10 +27,6 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 
 # 3. Tools Used
 
-The table below lists each tool used in this report and its purpose.
-
-| A LIST OF TOOLS USED
-|
 | Kali Linux & Windows            
 | WHOIS                
 | whatweb            
