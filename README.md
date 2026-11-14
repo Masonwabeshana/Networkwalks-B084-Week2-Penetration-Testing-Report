@@ -10,7 +10,7 @@ Pentesting Report
 | **Pentester Name (Cybersecurity Professional)** | **Masonwabe Manana** |
 | **Program/Batch** | B084-Networkwalks |
 | **Date** | 14 November 2026 |
-| **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
-| **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
+| **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning)<br> Pentesting Report|
+| **Client/Target** | 1. Networkwalks (written permission granted)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
 | **Phases covered** | **Phase 1:**  Footprinting & Reconnaissance<br>**Phase 2:** Network scanning with Zenmap
