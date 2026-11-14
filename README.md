@@ -62,3 +62,7 @@ Finding hidden subdomains and servers of the target
 *Scanning local IP addresses using Zenmap*
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/e1acd27a8859fa6f2e9fc3fc604b4888996621c6/Screenshot%202026-11-14%20180530.png)
+
+IP address Topology for live hosts
+
+
