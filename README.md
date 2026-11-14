@@ -59,5 +59,5 @@ Finding hidden subdomains and servers of the target
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/d98be6ff91ea2cea894f069f7cd83d5fbe7cbbab/Screenshot%202026-11-14%20193948.png)
 
 
-*SCANNING LOCAL NETWORK USING ZENMAP*
+*Scanning local IP addresses using Zenmap*
 
