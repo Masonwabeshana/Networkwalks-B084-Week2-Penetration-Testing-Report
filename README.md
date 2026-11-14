@@ -27,7 +27,6 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 # 8. Evidences Collected
 
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
-
 ![whois output](screenshots/1_whois.png)
 
 ![whatweb output](screenshots/2_whatweb.png)
