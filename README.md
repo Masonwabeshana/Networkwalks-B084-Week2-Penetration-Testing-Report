@@ -20,9 +20,8 @@ This project involves footprinting, reconnaissance, and network scanning using Z
 
 # 2. Introduction
 
-This report covers footprinting and reconnaissance to the 'networkwalks.com' domain using multiple Kali Linux tools. It also includes scanning of local IP addresses using Zenmap. Footprinting and reconnaisance allows vulnerabilities in systems to be detected quickly.
-All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenmap installed (scanning). Every step below includes the exact command used, the result I observed, a screenshot as evidence, and a short note on why the finding matters from an attacker's point of view.
-
+This report covers footprinting and reconnaissance on the 'networkwalks.com' domain using multiple Kali Linux tools. It also includes scanning of local IP addresses using Zenmap. Footprinting and reconnaisance allows vulnerabilities in systems to be detected quickly.
+Commands for footprinting were ran on kali linux, while scanning was through Zenmap installed on windows.
 
 # 3. Tools Used
 
