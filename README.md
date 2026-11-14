@@ -37,7 +37,7 @@ Commands for footprinting were ran on kali linux, while scanning was through Zen
 
 # 4. Activities Performed
 
- 4.1 Footprinting & Reconnaissance
+ Footprinting & Reconnaissance
 
 'Networkwalks.com' was used as the target network for this project, therefore will be referred to as the 'target' through its entirety. The first step was to gather information about the target. I used six kali linux tools for this; they include whois, whatweb, nslookup, curl, waf00f and dnsrecon. Whois was used to find out who owns the website, by showing the domain registration information. Whatweb identified the technologies used to build the website. Nslookup was used to collect basic domain name system (DNS) of the target network. 
 Curl was used to detect the responding HTTP headers. Waf00f was used to list and identify firewalls protecting the target. Dnsrecon was used to dig all DNS of the target.
@@ -57,7 +57,7 @@ I identified two live hosts:
   I noticed that '10.88.76.229' was the most critical host, and '10.88.76.11' being the most exposed.
 
 
-# 8. Evidences Collected
+# 6. Evidences Collected
 
 *Screenshots for the activities*
 
@@ -101,7 +101,7 @@ IP address Topology for live hosts
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/f964f2ca28c42339346a4c60524ce14c6f9a352a/Screenshot%202026-11-14%20180921.png)
 
 
-Conclusion
+# 7. CONCLUSION
 
 In this project I got exposure to different kali linux tools and their use. I also learned how crucial it is for network systems to be secure, and how easy a system can crash through open ports, if not properly patched.
 
