@@ -101,3 +101,7 @@ IP address Topology for live hosts
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/f964f2ca28c42339346a4c60524ce14c6f9a352a/Screenshot%202026-11-14%20180921.png)
 
 
+Conclusion
+
+In this project I got exposure to different kali linux tools and their use. I also learned how crucial it is for network systems to be secure, and how easy a system can crash through open ports, if not properly patched.
+
