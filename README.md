@@ -26,7 +26,7 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 
 # 8. Evidences Collected
 
-*Screenshots for the activities
+*Screenshots for the activities*
 
 Domain registration details of the target
 
