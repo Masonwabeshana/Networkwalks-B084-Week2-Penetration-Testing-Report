@@ -41,6 +41,18 @@ The table below lists each tool used in this report and its purpose.
 | Zenmap (Nmap GUI)    | Scan the local subnet to find live hosts, IPs and MAC addresses. |
 | Windows CMD          | Local IP and MAC address identification                          |
 
+# 4. Activities Performed
+
+ 4.1 Footprinting & Reconnaissance
+
+'Networkwalks.com' was used as the target network for this project, therefore will be referred to as the 'target' through its entirety. The first step was to gather information about the target. I used six kali linux tools for this; they include whois, whatweb, nslookup, curl, waf00f and dnsrecon. Whois was used to find out who owns the website, by showing the domain registration information. Whatweb identified the technologies used to build the website. Nslookup was used to collect basic domain name system (DNS) of the target network. 
+Using **Nslookup**, I resolved the domain name to its IP address. The provided result identified **192.232.216.135**.
+
+I used **Curl** with the `-I` option to inspect the HTTP response headers. This provided additional information about the web application and exposed the WordPress REST API endpoint `/wp-json/`.
+
+Next, I used **Wafw00f** to determine whether a Web Application Firewall was protecting the website. The result identified **ModSecurity (SpiderLabs)**.
+
+Finally, I used **DNSRecon** to enumerate DNS records. The results provided information relating to name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
 
 
