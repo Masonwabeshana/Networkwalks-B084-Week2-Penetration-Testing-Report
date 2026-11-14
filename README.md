@@ -51,7 +51,7 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 
 The example results provided in the practical identified four live hosts:
 
-- `10.0.0.1`
+- `10.`
 - `10.0.0.4`
 - `10.0.0.19`
 - `10.0.0.5`
