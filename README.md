@@ -23,3 +23,23 @@ This project involves footprinting, reconnaissance, and network scanning using Z
 This report covers footprinting the networkwalks.com domain using multiple Kali Linux tools (W2-PM1) and scanning my own local network with Zenmap (W2-PM5). One module covers the footprinting phase and the other covers the scanning phase, so together they show how an attacker moves from gathering public information to mapping live hosts on a network. It is the Week 2 part of my ongoing internship program at Networkwalks.
 
 All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenmap installed (scanning). Every step below includes the exact command used, the result I observed, a screenshot as evidence, and a short note on why the finding matters from an attacker's point of view.
+
+# 8. Evidences Collected
+
+*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+
+![whois output](screenshots/1_whois.png)
+
+![whatweb output](screenshots/2_whatweb.png)
+
+![nslookup output](screenshots/3_nslookup.png)
+
+![curl output](screenshots/4_curl.png)
+
+![wafw00f output](screenshots/5_wafw00f.png)
+
+![dnsrecon output](screenshots/7_zenmap.png)
+
+![Zenmap scan and topology](screenshots/8_zenmap2.png)
+
+-End-
