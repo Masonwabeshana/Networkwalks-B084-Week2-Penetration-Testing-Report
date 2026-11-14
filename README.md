@@ -51,10 +51,10 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 
 The example results provided in the practical identified four live hosts:
 
-- `10.`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
+- `10.88.76.229`
+- `10.88.76.116`
+
+  I noticed that '10.88.76.229' was the most critical host, and '10.88.76.11' being the most exposed.
 
 
 # 8. Evidences Collected
