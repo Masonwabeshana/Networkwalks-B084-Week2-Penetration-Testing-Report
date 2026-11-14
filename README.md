@@ -46,3 +46,5 @@ DNS information of the target
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/2e21cac3dcc0d8635afe463345ccc9c186859be9/Screenshot%202026-11-14%20193223.png)
 
 HTTP response headers of the target
+
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/23877a2654eb9c6bda6673cbba398b9a21af607b/Screenshot%202026-11-14%20193516.png)
