@@ -48,3 +48,5 @@ DNS information of the target
 HTTP response headers of the target
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/23877a2654eb9c6bda6673cbba398b9a21af607b/Screenshot%202026-11-14%20193516.png)
+
+Detecting Web Application firewall
