@@ -29,17 +29,17 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 
 The table below lists each tool used in this report and its purpose.
 
-| Tool | Purpose |
-|---|---|
-| Kali Linux & Windows | Operating systems used for reconnaissance activities             |
-| WHOIS                | Find domain registration details (owner, dates, name servers).   |
-| whatweb              | Fingerprint web technologies (server, CMS, plugins, IP).         |
-| nslookup             | Resolve the domain name to its IP address using DNS.             |
-| curl -I              | Read the HTTP response headers of the website.                   |
-| wafw00f              | Detect whether a Web Application Firewall protects the site.     |
-| dnsrecon             | Enumerate all DNS records (NS, MX, SPF, TXT, SRV).               |
-| Zenmap (Nmap GUI)    | Scan the local subnet to find live hosts, IPs and MAC addresses. |
-| Windows CMD          | Local IP and MAC address identification                          |
+| A LIST OF TOOLS USED
+|
+| Kali Linux & Windows            
+| WHOIS                
+| whatweb            
+| nslookup             
+| curl -I              
+| wafw00f              
+| dnsrecon             
+| Zenmap (Nmap GUI)    
+| Windows CMD          
 
 # 4. Activities Performed
 
