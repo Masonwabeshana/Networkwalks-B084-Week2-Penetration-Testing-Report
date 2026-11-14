@@ -28,4 +28,4 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 
 *Screenshots for the activities
 
-
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/1bcfaa7c57036f9767e906035efc9dc2eaf0c6be/Screenshot%202026-11-14%20192223.png)
