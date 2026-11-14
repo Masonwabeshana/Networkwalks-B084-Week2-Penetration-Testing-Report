@@ -24,6 +24,30 @@ This report covers footprinting the networkwalks.com domain using multiple Kali 
 
 All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenmap installed (scanning). Every step below includes the exact command used, the result I observed, a screenshot as evidence, and a short note on why the finding matters from an attacker's point of view.
 
+
+# 3. Tools Used
+
+The table below lists each tool used in this report and its purpose.
+
+| Tool | Purpose |
+|---|---|
+| Kali Linux & Windows | Operating systems used for reconnaissance activities             |
+| WHOIS                | Find domain registration details (owner, dates, name servers).   |
+| whatweb              | Fingerprint web technologies (server, CMS, plugins, IP).         |
+| nslookup             | Resolve the domain name to its IP address using DNS.             |
+| curl -I              | Read the HTTP response headers of the website.                   |
+| wafw00f              | Detect whether a Web Application Firewall protects the site.     |
+| dnsrecon             | Enumerate all DNS records (NS, MX, SPF, TXT, SRV).               |
+| Zenmap (Nmap GUI)    | Scan the local subnet to find live hosts, IPs and MAC addresses. |
+| Windows CMD          | Local IP and MAC address identification                          |
+
+
+
+
+
+
+
+
 # 8. Evidences Collected
 
 *Screenshots for the activities*
