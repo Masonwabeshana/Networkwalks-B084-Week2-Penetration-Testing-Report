@@ -49,7 +49,7 @@ Zenmap was used to scan local network. Here, I identified my local IP address an
 
 I first used the Windows `ipconfig` command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected **Ping Scan** to identify active hosts.
 
-The example results provided in the practical identified four live hosts:
+I identified two live hosts:
 
 - `10.88.76.229`
 - `10.88.76.116`
