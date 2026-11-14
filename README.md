@@ -36,7 +36,7 @@ Domain registration details of target
 
 
 
-Fingerprinting the website
+Fingerprinting the target website
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/a8e2b6fd53545c6712d555c5865870f9c631c1e4/Screenshot%202026-11-14%20192655.png)
 
