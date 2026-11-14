@@ -43,6 +43,20 @@ Commands for footprinting were ran on kali linux, while scanning was through Zen
 Curl was used to detect the responding HTTP headers. Waf00f was used to list and identify firewalls protecting the target. Dnsrecon was used to dig all DNS of the target.
 
 
+# 5. Network Scanning with Zenmap
+
+Zenmap was used to scan local network. Here, I identified my local IP address and subnet, local live hosts, with their IP and MAC addresses generated on a network topology.
+
+I first used the Windows `ipconfig` command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected **Ping Scan** to identify active hosts.
+
+The example results provided in the practical identified four live hosts:
+
+- `10.0.0.1`
+- `10.0.0.4`
+- `10.0.0.19`
+- `10.0.0.5`
+
+
 # 8. Evidences Collected
 
 *Screenshots for the activities*
