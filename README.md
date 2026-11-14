@@ -1,6 +1,6 @@
 # Networkwalks-B084-Week2-Penetration-Testing-Report
 Pentesting Report
-# PENETRATION TESTING REPORT (SAMPLE)
+# PENETRATION TESTING REPORT 
 ### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
