@@ -50,3 +50,5 @@ HTTP response headers of the target
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/23877a2654eb9c6bda6673cbba398b9a21af607b/Screenshot%202026-11-14%20193516.png)
 
 Detecting Web Application firewall of the target
+
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/2bf22aff5fb7c0e4b9a724a80dac2b4305d0ea78/Screenshot%202026-11-14%20193731.png)
