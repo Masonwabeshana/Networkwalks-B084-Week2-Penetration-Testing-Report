@@ -100,8 +100,15 @@ IP address Topology for live hosts
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/f964f2ca28c42339346a4c60524ce14c6f9a352a/Screenshot%202026-11-14%20180921.png)
 
+# 7. RISK ANALYSIS
 
-# 7. CONCLUSION
+ON NETWORKWALKS.COM
+The reconnaissance on networkwalks.com showed an overall medium-high risk. The domain is well protected with registrar locks, WHOIS privacy, HTTPS, and a Modsecurity WAF, but it is vulnerable at the application and DNS layers due to exposed wordpress/ plugin versions, missing DNSSEC, and missing security headers. These issues could allow targeted attacks, DNS spoofing, XSS, and clickjacking. The risk can be reduced by enabling DNSSEC, updating or hiding CMS versions, adding security headers, and configuring SPF, DKIM, and DMARC.
+
+ON LOCAL IP ADDRESSES FOUND
+
+
+# 8. CONCLUSION
 
 In this project I got exposure to different kali linux tools and their use. I also learned how crucial it is for network systems to be secure, and how easy a system can crash through open ports, if not properly patched.
 
