@@ -108,6 +108,8 @@ The reconnaissance on networkwalks.com showed an overall medium-high risk. The d
 
 ON LOCAL IP ADDRESSES FOUND
 
+Windows host at 10.88.76.116 shows high-risk ports 135, 139, and 445 , creating a high-risk of SMB exploitation and lateral movements, while 10.88.76.229 exposes only DNS port 53, presenting a medium risk of DNS sooting.
+
 
 # 8. CONCLUSION
 
