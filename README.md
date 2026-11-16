@@ -103,6 +103,7 @@ IP address Topology for live hosts
 # 7. RISK ANALYSIS
 
 ON NETWORKWALKS.COM
+
 The reconnaissance on networkwalks.com showed an overall medium-high risk. The domain is well protected with registrar locks, WHOIS privacy, HTTPS, and a Modsecurity WAF, but it is vulnerable at the application and DNS layers due to exposed wordpress/ plugin versions, missing DNSSEC, and missing security headers. These issues could allow targeted attacks, DNS spoofing, XSS, and clickjacking. The risk can be reduced by enabling DNSSEC, updating or hiding CMS versions, adding security headers, and configuring SPF, DKIM, and DMARC.
 
 ON LOCAL IP ADDRESSES FOUND
