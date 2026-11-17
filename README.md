@@ -102,7 +102,9 @@ IP address Topology for live hosts
 
 # 7. RISK ANALYSIS
 
-According to  ISO 31000 Enterprise Risk Management Frameworks (ISO31000:2018 Risk Management Process)
+According to  ISO 31000 Enterprise Risk Management Framework should manage their risk through an integrated, and structured framework that continuously identifies, analyses, evaluates and monitors threats.
+
+
 
 ON NETWORKWALKS.COM
 
