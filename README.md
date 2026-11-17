@@ -102,13 +102,7 @@ IP address Topology for live hosts
 
 # 7. RISK ANALYSIS
 
-According to  ISO 31000 Enterprise Risk Management Framework should manage their risk through an integrated, and structured framework that continuously identifies, analyses, evaluates and monitors threats.
-
-
-
-ON NETWORKWALKS.COM
-
-The reconnaissance on networkwalks.com showed an overall medium-high risk. The domain is well protected with registrar locks, WHOIS privacy, HTTPS, and a Modsecurity WAF, but it is vulnerable at the application and DNS layers due to exposed wordpress/ plugin versions, missing DNSSEC, and missing security headers. These issues could allow targeted attacks, DNS spoofing, XSS, and clickjacking. The risk can be reduced by enabling DNSSEC, updating or hiding CMS versions, adding security headers, and configuring SPF, DKIM, and DMARC.
+According to  ISO 31000 Enterprise Risk Management Framework should manage their risk through an integrated, and structured framework that continuously identifies, analyses, evaluates and monitors threats. Thses risks are classified by accessing their likelihood and impact, producing either a low, medium, high or extreme risk. 
 
 ON LOCAL IP ADDRESSES FOUND
 
