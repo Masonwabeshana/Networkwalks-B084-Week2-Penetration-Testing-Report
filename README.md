@@ -104,6 +104,12 @@ IP address Topology for live hosts
 
 According to  ISO 31000 Enterprise Risk Management Framework should manage their risk through an integrated, and structured framework that continuously identifies, analyses, evaluates and monitors threats. Thses risks are classified by accessing their likelihood and impact, producing either a low, medium, high or extreme risk. 
 
+Risks are also classified by what you will do with them;
+
+a) Acceptable risk : It is a low risk, one can with live it. 
+b) Tolerable risk : Medium risk- you threat it and continue operation.
+c) Unacceptable risk : High or extreme risk- you must threat it now.
+
 ON LOCAL IP ADDRESSES FOUND
 
 Windows host at 10.88.76.116 shows high-risk ports 135, 139, and 445 , creating a high-risk of SMB exploitation and lateral movements, while 10.88.76.229 exposes only DNS port 53, presenting a medium risk of DNS sooting.
