@@ -120,7 +120,7 @@ c) Unacceptable risk : High or extreme risk- you must threat it now.
 
 ON NETWORKWALKS.COM
 
-
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week2-Penetration-Testing-Report/blob/fa0ba317f8f732393b2636dda5861bbc13674ca6/IMG-20261117-WA5061.jpg)
 
 
 
