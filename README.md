@@ -154,5 +154,5 @@ Windows host at 10.88.76.116 shows high-risk ports 135, 139, and 445 , creating 
 
 # 8. CONCLUSION
 
-In this project I got exposure to different kali linux tools and their use. I also learned how crucial it is for network systems to be secure, and how easy a system can crash through open ports, if not properly patched.
+In this project I got exposure to different kali linux tools and their use. I also learned how crucial it is for network systems to be secure, and how easy a system can crash through open ports, if not properly patched. Therefore, it recommended that organisations reduce such risks through patching, enabling DNSSEC, disabling unnecessary services, and implementing security headers.
 
