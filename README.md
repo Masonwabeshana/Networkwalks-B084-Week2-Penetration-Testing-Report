@@ -54,7 +54,7 @@ I identified two live hosts:
 - `10.88.76.229`
 - `10.88.76.116`
 
-  I noticed that '10.88.76.229' was the most critical host, and '10.88.76.11' being the most exposed.
+  I noticed that '10.88.76.229' was the most critical host, and '10.88.76.116' being the most exposed.
 
 
 # 6. Evidences Collected
