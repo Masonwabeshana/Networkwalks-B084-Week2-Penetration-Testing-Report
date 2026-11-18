@@ -102,7 +102,7 @@ IP address Topology for live hosts
 
 # 7. RISK ANALYSIS
 
-According to  ISO 31000 Enterprise Risk Management Framework should manage their risk through an integrated, and structured framework that continuously identifies, analyses, evaluates and monitors threats. Thses risks are classified by accessing their likelihood and impact, producing either a low, medium, high or extreme risk. 
+According to  ISO 31000 Enterprise Risk Management Framework should manage their risk through an integrated, and structured framework that continuously identifies, analyses, evaluates and monitors threats. These risks are classified by accessing their likelihood and impact, producing either a low, medium, high or extreme risk, then by source( whether strategic, operational, financial, compliance) , and finally by whether or not they are acceptable, tolerable, or unacceptable.
 
 Risks are also classified by what you will do with them;
 
@@ -111,6 +111,9 @@ a) Acceptable risk : It is a low risk, one can with live it.
 b) Tolerable risk : Medium risk- you threat it and continue operation.
 
 c) Unacceptable risk : High or extreme risk- you must threat it now.
+
+
+
 
 ON LOCAL IP ADDRESSES FOUND
 
