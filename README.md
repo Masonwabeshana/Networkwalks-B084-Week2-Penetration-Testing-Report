@@ -120,6 +120,22 @@ c) Unacceptable risk : High or extreme risk- you must threat it now.
 
 ON NETWORKWALKS.COM
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Acceptable risks(low) - 2 risks were found. The domain hijacking and expiry. They can be accepted and monitored.
 
 Tolerable risks ( medium- high) - 8 risks were identified. WHOIS exposure, email harvesting, missing headers, mail server, WAF bypass, DNS port 53, NetBIOS port 139. These must be attended to, but the operations can continue.
