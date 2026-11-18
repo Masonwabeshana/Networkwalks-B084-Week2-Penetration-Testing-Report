@@ -106,7 +106,10 @@ According to  ISO 31000 Enterprise Risk Management Framework should manage their
 
 
 
+
+
 Risks are also classified by what you will do with them;
+
 
 a) Acceptable risk : It is a low risk, one can with live it. 
 
