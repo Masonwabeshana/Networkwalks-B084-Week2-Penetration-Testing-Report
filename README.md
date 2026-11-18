@@ -107,7 +107,9 @@ According to  ISO 31000 Enterprise Risk Management Framework should manage their
 Risks are also classified by what you will do with them;
 
 a) Acceptable risk : It is a low risk, one can with live it. 
+
 b) Tolerable risk : Medium risk- you threat it and continue operation.
+
 c) Unacceptable risk : High or extreme risk- you must threat it now.
 
 ON LOCAL IP ADDRESSES FOUND
